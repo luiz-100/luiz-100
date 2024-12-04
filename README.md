@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luiz-100
-- 👀 I’m interested in claoud architecture
+- 👀 I’m interested in cloud architecture
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
